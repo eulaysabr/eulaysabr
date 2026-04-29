@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=FFB6C1&height=200&section=header&text=Laysa%20Ribeiro&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
   
-  <h3> ✨ Engenheira de Software & Entusiasta de Cloud 🎀 </h3>
+  <h3> ✨ Engenheira de Software & Especialista em Cybersecurity 🎀 </h3>
   <p> 📍 Cambé, PR | 🦄 18 anos </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/-Akamai%20Technologies-black?style=flat-square&logo=akamai&logoColor=white&color=FF69B4" />
-    <img src="https://img.shields.io/badge/-Apaixonada%20por%20Código-pink?style=flat-square&logo=heart&logoColor=white&color=FFC0CB" />
+    <img src="https://img.shields.io/badge/-Akamai%20Technologies-black?style=for-the-badge&logo=akamai&logoColor=white&color=000000" />
+    <img src="https://img.shields.io/badge/-Cybersecurity-pink?style=for-the-badge&logo=shield&logoColor=white&color=FF69B4" />
+    <img src="https://img.shields.io/badge/-AI%20Research-pink?style=for-the-badge&logo=openai&logoColor=white&color=FFC0CB" />
   </p>
 </div>
 
@@ -14,52 +15,47 @@
 
 ### 🌸 Sobre Mim
 
-Olá! Sou a **Laysa**, uma desenvolvedora que ama transformar café em sistemas escaláveis e seguros. Atualmente, faço parte do time da **Akamai Technologies** ☁️ e dedico minhas horas livres ao desenvolvimento do meu projeto próprio.
+Olá! Sou a **Laysa**, uma desenvolvedora focada em arquiteturas de alto nível onde segurança e performance são inegociáveis. Atualmente, integro o time da **Akamai Technologies** ☁️ e trabalho de forma independente em projetos de **Inteligência Artificial**.
 
-Minha jornada começou cedo no mundo dos servidores de Minecraft, onde aprendi a lidar com grandes volumes de jogadores e infraestrutura resiliente sob pressão. Minha mentalidade é focada em segurança e performance.
+Minha base técnica foi forjada no gerenciamento de infraestrutura crítica para Minecraft, evoluindo para o desenvolvimento de software de baixo nível e sistemas distribuídos. Sigo a filosofia **Zero Trust**: nunca confiar, sempre verificar cada bit.
 
 - 👩‍💻 Atuando profissionalmente na **Akamai**
+- 🤖 Desenvolvendo projetos proprietários de **Inteligência Artificial**
 - 🧠 Mergulhando nos mistérios do **Assembly** ⚙️
-- 🚀 Construindo meu próprio ecossistema tecnológico.
+- 🛡️ Especialista em defesa de rede e segurança de borda (Edge)
 
 ---
 
-### 💻 Meu Arsenal Técnico
+### 💻 Arsenal Técnico Profissional
 
 <div align="left">
-  
-**🌐 Frontend e Mobile** ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**⚙️ Backend e Sistemas** ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-555555?style=for-the-badge&logo=processor&logoColor=white)
+**🌐 Frontend & Mobile**
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-**🗄️ Bancos de Dados** ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**⚙️ Sistemas & Backend**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=webassembly&logoColor=white" />
 
-**☁️ Experiência em Nuvem** ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linode](https://img.shields.io/badge/-Linode-00A911?style=for-the-badge&logo=linode&logoColor=white)
-![Akamai](https://img.shields.io/badge/-Akamai-0099CC?style=for-the-badge&logo=akamai&logoColor=white)
+**🗄️ Persistência de Dados**
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**☁️ Infraestrutura & Cloud**
+<img src="https://img.shields.io/badge/Akamai-0099CC?style=for-the-badge&logo=akamai&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Linode-00A911?style=for-the-badge&logo=linode&logoColor=white" />
 
 </div>
 
 ---
 
-### 🎮 Raízes no Gaming (Minecraft)
+### 🎮 Legado Minecraft
 
-Minha base técnica foi forjada gerenciando comunidades e arquiteturas complexas:
+Minha expertise técnica em escala global nasceu na administração e desenvolvimento de grandes comunidades:
 
-* 🍦 **FireMC (2018)**: Foco total em **Infraestrutura** e redes.
-* 🛡️ **Fearland (2021)**: Atuação como **Programadora e Diretora**, unindo código e gestão.
+* 🍦 **FireMC (2018)**: Gestão de **Infraestrutura** crítica e redes resilientes.
+* 🛡️ **Fearland (2021)**: Atuação como **Programadora e Diretora**, liderando o desenvolvimento de sistemas customizados de alta performance.
 
 ---
 
-### 📊 Minhas Estatísticas 💖
+### 📊 Performance & Atividade 💖
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulaysabr&show_icons=true&theme=rose-pine&include_all_commits=true&count_private=true" />
@@ -75,6 +71,9 @@ Minha base técnica foi forjada gerenciando comunidades e arquiteturas complexas
 <div align="center">
   <p><i>"O código é a poesia do amanhã."</i> ✨</p>
   <a href="mailto:laysa.riih@gmail.com">
-    <img src="https://img.shields.io/badge/-Entre%20em%20Contato-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-laysa.riih@gmail.com-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/eulaysabr">
+    <img src="https://img.shields.io/badge/Discord-eulaysabr-FFB6C1?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
