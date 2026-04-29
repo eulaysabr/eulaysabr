@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/8Q8N0vB.png" alt="Laysa Ribeiro - Banner" width="100%" />
-  
+<div align="center">  
   <h3> ✨ Engenheira de Software & Especialista em Cybersecurity 🎀 </h3>
   <p align="center"> <b>Cambé, PR</b> &nbsp; • &nbsp; <b>18 anos</b> </p>
 
