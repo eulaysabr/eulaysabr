@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=FFB6C1&height=200&section=header&text=Laysa%20Ribeiro&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
   
   <h3> ✨ Engenheira de Software & Especialista em Cybersecurity 🎀 </h3>
-  <p align="center"> 🌸 <b>Cambé, PR</b> &nbsp; • &nbsp; 🎀 <b>18 anos</b> </p>
+  <p align="center"> <b>Cambé, PR</b> &nbsp; • &nbsp; <b>18 anos</b> </p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/-Akamai%20Technologies-black?style=for-the-badge&logo=akamai&logoColor=white&color=000000" />
