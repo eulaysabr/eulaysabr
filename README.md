@@ -1,5 +1,4 @@
 <div align="center">
-  div align="center">
   <img src="https://i.imgur.com/8Q8N0vB.png" alt="Laysa Ribeiro - Banner" width="100%" />
   
   <h3> ✨ Engenheira de Software & Especialista em Cybersecurity 🎀 </h3>
