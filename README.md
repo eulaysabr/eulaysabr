@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=FFB6C1&height=200&section=header&text=Laysa%20Ribeiro&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  div align="center">
+  <img src="https://i.imgur.com/8Q8N0vB.png" alt="Laysa Ribeiro - Banner" width="100%" />
   
   <h3> ✨ Engenheira de Software & Especialista em Cybersecurity 🎀 </h3>
   <p align="center"> <b>Cambé, PR</b> &nbsp; • &nbsp; <b>18 anos</b> </p>
