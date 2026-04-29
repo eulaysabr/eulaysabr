@@ -20,6 +20,7 @@ Minha base técnica foi forjada no gerenciamento de infraestrutura crítica para
 
 - 👩‍💻 Atuando profissionalmente na **Akamai**
 - 🤖 Desenvolvendo projetos proprietários de **Inteligência Artificial**
+- 🎮 Criando um **novo servidor de Minecraft** (voltando às raízes!)
 - 🧠 Mergulhando nos mistérios do **Assembly** ⚙️
 - 🛡️ Especialista em defesa de rede e segurança de borda (Edge)
 
