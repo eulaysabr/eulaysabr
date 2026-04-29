@@ -5,9 +5,8 @@
   <p align="center"> 🌸 <b>Cambé, PR</b> &nbsp; • &nbsp; 🎀 <b>18 anos</b> </p>
 
   <p align="center">
-<img src="https://img.shields.io/badge/-Akamai%20Technologies-black?style=flat-square&logo=akamai&logoColor=white&color=FF69B4" />
-<img src="https://img.shields.io/badge/-Cybersecurity-pink?style=for-the-badge&logo=shield&logoColor=white&color=FF69B4" />
-    <img src="https://img.shields.io/badge/-AI%20Research-pink?style=for-the-badge&logo=openai&logoColor=white&color=FFC0CB" />
+    <img src="https://img.shields.io/badge/-Akamai%20Technologies-black?style=flat-square&logo=akamai&logoColor=white&color=FF69B4" />
+    <img src="https://img.shields.io/badge/-Apaixonada%20por%20Código-pink?style=flat-square&logo=heart&logoColor=white&color=FFC0CB" />
   </p>
 </div>
 
