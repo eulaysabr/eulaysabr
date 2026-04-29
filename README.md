@@ -58,7 +58,6 @@ Minha expertise técnica em escala global nasceu na administração e desenvolvi
 ### 📊 Performance & Atividade 💖
 
 <p align="center">
-  p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulaysabr&show_icons=true&theme=rosepine&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulaysabr&layout=compact&theme=rose-pine&hide_border=true" />
 </p>
