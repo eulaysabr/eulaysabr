@@ -7,8 +7,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/-Akamai%20Technologies-black?style=for-the-badge&logo=akamai&logoColor=white&color=000000" />
     <img src="https://img.shields.io/badge/-Cybersecurity-pink?style=for-the-badge&logo=shield&logoColor=white&color=FF69B4" />
-    <img src="https://img.shields.io/badge/-AI%20Research-pink?style=for-the-badge&logo=openai&logoColor=white&color=FFC0CB" />
-  </p>
+    <img src="https://img.shields.io/badge/-Open%20Source-pink?style=for-the-badge&logo=github&logoColor=white&color=FFC0CB" />  </p>
 </div>
 
 ---
